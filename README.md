@@ -1,5 +1,4 @@
 # Proyecto-Matematicas-Discretas
-Proyecto matematicas discretas
 # Maneras de proteger para la información de los usuarios aplicando las matemáticas discretas
 Proyecto matematicas discretas - Grupo D1
 
