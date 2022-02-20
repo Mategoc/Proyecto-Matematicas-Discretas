@@ -1,6 +1,6 @@
 # Proyecto-Matematicas-Discretas
-# Maneras de proteger para la información de los usuarios aplicando las matemáticas discretas
-Proyecto matematicas discretas - Grupo D1
+# Encriptador de transacciones
+Grupo D1
 
 Un banco planea implementar unos nuevos cajeros en sus principales sucursales para esto contrata unos ingenieros de sistemas que busquen la manera 
 mas segura de proteger la base de datos dentro de estos cajeros.
