@@ -1,5 +1,8 @@
 # Encriptador de transacciones
-# Grupo D1
+# Integrantes
+  .Mateo Geronimo Ortiz Cruzate
+  .Sergio Hernando Baron Rivera
+  .Carlos Alberto Barrera Cadena
 
 # ✏OBJETIVO
 Diseñar un programa que proporcione mayor seguridad y privacidad a la información de transacciones bancarias mediante el uso de la encriptación.
