@@ -2,7 +2,8 @@
 # Encriptador de transacciones
 Grupo D1
 
-#OBJETIVO
+# OBJETIVO
+Diseñar un programa que proporcione mayor seguridad y privacidad a la información de transacciones bancarias mediante el uso de la encriptación.
 
 Un banco planea implementar unos nuevos cajeros en sus principales sucursales para esto contrata unos ingenieros de sistemas que busquen la manera 
 mas segura de proteger la base de datos dentro de estos cajeros.
