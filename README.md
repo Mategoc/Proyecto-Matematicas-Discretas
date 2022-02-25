@@ -1,5 +1,5 @@
 # Encriptador de transacciones
-# Integrantes
+# Integrantes Del Grupo
   - Mateo Geronimo Ortiz Cruzate
   - Sergio Hernando Baron Rivera
   - Carlos Alberto Barrera Cadena
