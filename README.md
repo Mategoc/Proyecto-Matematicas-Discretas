@@ -15,7 +15,7 @@ de esta manera se puede garantizar la seguridad y privacidad
 de la informacion de los datos de los usuarios que utilizen el cajero y sentirse seguros usando el mismo.
 
 Para poder lograr el cometido crearemos un algoritmo en python que nos permita
-encriptar y desencriptar las distintas tuplas de una base de datos donde obtendremos
+encriptar las distintas tuplas de una base de datos donde obtendremos
 los datos a encriptar (Numero de identificación, tipo de transacción, monto de la transacción, fecha, balance)
 Nota: el tipo de la transacción puede ser retiro o ingreso
 Para ello usaremos dos formas de encriptación que se le aplicarán a cada elemento de la tupla, los métodos a usar son: 
